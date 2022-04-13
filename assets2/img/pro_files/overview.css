@@ -1,0 +1,242 @@
+/*------------------------------------*\
+   LOCAL SCREENS
+\*------------------------------------*/
+
+
+.section-experience .video-container .image-pairing-endframe { background-image:url("/euro/airpods-pro/c/screens_alt/images/overview/pairing_static__do2farpd1dkm_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .section-experience .video-container .image-pairing-endframe { background-image:url("/euro/airpods-pro/c/screens_alt/images/overview/pairing_static__do2farpd1dkm_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1023px) {
+  .section-experience .video-container .image-pairing-endframe { background-image:url("/euro/airpods-pro/c/screens_alt/images/overview/pairing_static__do2farpd1dkm_medium.jpg"); }
+}
+@media only screen and (max-width: 1023px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1023px) and (min-resolution: 1.5dppx), only screen and (max-width: 1023px) and (min-resolution: 144dpi) {
+  .section-experience .video-container .image-pairing-endframe { background-image:url("/euro/airpods-pro/c/screens_alt/images/overview/pairing_static__do2farpd1dkm_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 734px) {
+  .section-experience .video-container .image-pairing-endframe { background-image:url("/euro/airpods-pro/c/screens_alt/images/overview/pairing_static__do2farpd1dkm_small.jpg"); }
+}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+  .section-experience .video-container .image-pairing-endframe { background-image:url("/euro/airpods-pro/c/screens_alt/images/overview/pairing_static__do2farpd1dkm_small_2x.jpg"); }
+}
+.section-experience .video-container .image-pairing-startframe { background-image:url("/euro/airpods-pro/c/screens_alt/images/overview/pairing_startframe__cvocgj2ml6i6_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  .section-experience .video-container .image-pairing-startframe { background-image:url("/euro/airpods-pro/c/screens_alt/images/overview/pairing_startframe__cvocgj2ml6i6_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1023px) {
+  .section-experience .video-container .image-pairing-startframe { background-image:url("/euro/airpods-pro/c/screens_alt/images/overview/pairing_startframe__cvocgj2ml6i6_medium.jpg"); }
+}
+@media only screen and (max-width: 1023px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1023px) and (min-resolution: 1.5dppx), only screen and (max-width: 1023px) and (min-resolution: 144dpi) {
+  .section-experience .video-container .image-pairing-startframe { background-image:url("/euro/airpods-pro/c/screens_alt/images/overview/pairing_startframe__cvocgj2ml6i6_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 734px) {
+  .section-experience .video-container .image-pairing-startframe { background-image:url("/euro/airpods-pro/c/screens_alt/images/overview/pairing_startframe__cvocgj2ml6i6_small.jpg"); }
+}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+  .section-experience .video-container .image-pairing-startframe { background-image:url("/euro/airpods-pro/c/screens_alt/images/overview/pairing_startframe__cvocgj2ml6i6_small_2x.jpg"); }
+}
+html.fallback .section-experience .static-image-1,html.no-js .section-experience .static-image-1 { background-image:url("/euro/airpods-pro/c/screens_alt/images/overview/static_magical_connect__c1gv5mgtm84m_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  html.fallback .section-experience .static-image-1,html.no-js .section-experience .static-image-1 { background-image:url("/euro/airpods-pro/c/screens_alt/images/overview/static_magical_connect__c1gv5mgtm84m_large_2x.jpg"); }
+}
+@media only screen and (max-width: 734px) {
+  html.fallback .section-experience .static-image-1,html.no-js .section-experience .static-image-1 { background-image:url("/euro/airpods-pro/c/screens_alt/images/overview/static_magical_connect__c1gv5mgtm84m_small.jpg"); }
+}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+  html.fallback .section-experience .static-image-1,html.no-js .section-experience .static-image-1 { background-image:url("/euro/airpods-pro/c/screens_alt/images/overview/static_magical_connect__c1gv5mgtm84m_small_2x.jpg"); }
+}
+
+html.fallback .section-experience .static-image-switching, html.no-js .section-experience .static-image-switching { background-image:url("/euro/airpods-pro/c/screens_alt/images/overview/static_magical_switching__zefgf50tsn6y_large.jpg"); }
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-resolution: 1.5dppx), (-webkit-min-device-pixel-ratio: 1.5), (min-resolution: 144dpi) {
+  html.fallback .section-experience .static-image-switching, html.no-js .section-experience .static-image-switching { background-image:url("/euro/airpods-pro/c/screens_alt/images/overview/static_magical_switching__zefgf50tsn6y_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1023px) {
+  html.fallback .section-experience .static-image-switching, html.no-js .section-experience .static-image-switching { background-image:url("/euro/airpods-pro/c/screens_alt/images/overview/static_magical_switching__zefgf50tsn6y_medium.jpg"); }
+}
+@media only screen and (max-width: 1023px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1023px) and (min-resolution: 1.5dppx), only screen and (max-width: 1023px) and (min-resolution: 144dpi) {
+  html.fallback .section-experience .static-image-switching, html.no-js .section-experience .static-image-switching { background-image:url("/euro/airpods-pro/c/screens_alt/images/overview/static_magical_switching__zefgf50tsn6y_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 734px) {
+  html.fallback .section-experience .static-image-switching, html.no-js .section-experience .static-image-switching { background-image:url("/euro/airpods-pro/c/screens_alt/images/overview/static_magical_switching__zefgf50tsn6y_small.jpg"); }
+}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+  html.fallback .section-experience .static-image-switching, html.no-js .section-experience .static-image-switching { background-image:url("/euro/airpods-pro/c/screens_alt/images/overview/static_magical_switching__zefgf50tsn6y_small_2x.jpg"); }
+}
+
+@media only screen and (max-width: 10240px) {
+ .section-experience .image-screen-switching { background-image:url("/euro/airpods-pro/c/screens_alt/images/overview/simplicity_switching_screen__fnmqcxavcsae_large.jpg"); }
+}
+@media only screen and (max-width: 10240px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 10240px) and (min-resolution: 1.5dppx), only screen and (max-width: 10240px) and (min-resolution: 144dpi) {
+ .section-experience .image-screen-switching { background-image:url("/euro/airpods-pro/c/screens_alt/images/overview/simplicity_switching_screen__fnmqcxavcsae_large_2x.jpg"); }
+}
+@media only screen and (max-width: 1023px) {
+ .section-experience .image-screen-switching { background-image:url("/euro/airpods-pro/c/screens_alt/images/overview/simplicity_switching_screen__fnmqcxavcsae_medium.jpg"); }
+}
+@media only screen and (max-width: 1023px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 1023px) and (min-resolution: 1.5dppx), only screen and (max-width: 1023px) and (min-resolution: 144dpi) {
+ .section-experience .image-screen-switching { background-image:url("/euro/airpods-pro/c/screens_alt/images/overview/simplicity_switching_screen__fnmqcxavcsae_medium_2x.jpg"); }
+}
+@media only screen and (max-width: 734px) {
+ .section-experience .image-screen-switching { background-image:url("/euro/airpods-pro/c/screens_alt/images/overview/simplicity_switching_screen__fnmqcxavcsae_small.jpg"); }
+}
+@media only screen and (max-width: 734px) and (-webkit-min-device-pixel-ratio: 1.5), only screen and (max-width: 734px) and (min-resolution: 1.5dppx), only screen and (max-width: 734px) and (min-resolution: 144dpi) {
+ .section-experience .image-screen-switching { background-image:url("/euro/airpods-pro/c/screens_alt/images/overview/simplicity_switching_screen__fnmqcxavcsae_small_2x.jpg"); }
+}
+/*------------------------------------*\
+   END LOCAL SCREENS
+\*------------------------------------*/ 
+
+
+
+
+/*------------------------------------*\
+   LOCAL FIXES
+\*------------------------------------*/
+
+
+@media only screen and (max-width: 2560px) {
+    .section-experience .typography-section-headline {
+        line-height: 0.98;
+    }
+}
+
+@media only screen and (max-width: 1023px) {
+    .section-experience .typography-section-headline {
+        line-height: 1.05;
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    .section-experience .typography-section-headline {
+        line-height: 1.07143;
+    }
+}
+
+@media only screen and (min-width: 1441px) {
+    .section-experience .typography-section-headline-xl {
+        line-height: 1.07143;
+    }
+}
+
+
+html.fallback .main .copy-block br,html.no-js .main .copy-block br {
+	display:block
+}
+
+@media only screen and (max-width: 2560px) {
+    html.fallback .main .copy-block br.large,html.no-js .main .copy-block br.large {
+        display:block
+    }
+}
+
+@media only screen and (max-width: 1023px) {
+    html.fallback .main .copy-block br.large,html.no-js .main .copy-block br.large {
+        display:none
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.fallback .main .copy-block br.large,html.no-js .main .copy-block br.large {
+        display:none
+    }
+}
+
+@media only screen and (max-width: 2560px) {
+    html.fallback .main .copy-block br.medium,html.no-js .main .copy-block br.medium {
+        display:none
+    }
+}
+
+@media only screen and (max-width: 1023px) {
+    html.fallback .main .copy-block br.medium,html.no-js .main .copy-block br.medium {
+        display:block
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.fallback .main .copy-block br.medium,html.no-js .main .copy-block br.medium {
+        display:none
+    }
+}
+
+@media only screen and (max-width: 2560px) {
+    html.fallback .main .copy-block br.small,html.no-js .main .copy-block br.small {
+        display:none
+    }
+}
+
+@media only screen and (max-width: 1023px) {
+    html.fallback .main .copy-block br.small,html.no-js .main .copy-block br.small {
+        display:none
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.fallback .main .copy-block br.small,html.no-js .main .copy-block br.small {
+        display:block
+    }
+}
+
+html.fallback .main .section-performance-design .copy-2 {
+    padding-top:0
+}
+
+@media only screen and (max-width: 734px) {
+    html.fallback .main .section-performance-design .copy-2 {
+        padding-top:0
+    }
+}
+
+@media only screen and (max-width: 1023px) {
+    html.fallback .main .section-performance-design .copy-3 {
+        padding-bottom:30px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.fallback .main .section-performance-design .copy-3 {
+        padding-bottom: 30px;
+        bottom:0px;
+    }
+}
+
+@media only screen and (max-width: 1023px) {
+    html.fallback .main .section-performance-design .copy-4 {
+        padding-bottom:30px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.fallback .main .section-performance-design .copy-4 {
+        padding-bottom: 0;
+        bottom:0px
+    }
+}
+
+@media only screen and (max-width: 734px) {
+    html.fallback .main .section-performance-design .copy-5.small-bot {
+        padding-top:0px
+    }
+}
+
+
+html.fallback .main .section-battery .copy-2 {
+    padding-top:0
+}
+
+@media only screen and (max-width: 734px) {
+    html.fallback .main .section-battery .copy-2 {
+        padding-top:0
+    }
+}
+
+@media only screen and (max-width: 1023px) {
+	html.fallback .main .copy-scroll-container .copy-block:nth-of-type(7) p:first-of-type br.medium, 
+	html.no-js .main .copy-scroll-container .copy-block:nth-of-type(7) p:first-of-type br.medium {
+		display: none;
+	}
+}
+
+
+/*------------------------------------*\
+   END LOCAL FIXES
+\*------------------------------------*/ 
